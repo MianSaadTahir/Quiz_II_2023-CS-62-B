@@ -14,6 +14,13 @@ A robust, modern, and high-performance Android application designed for streamli
   - **Detailed Insights:** Deep-dive view of individual complaints including status and submission timestamps.
 - **Result-Oriented Navigation:** Optimized activity lifecycle management using `startActivityForResult` to ensure data freshness without redundant reloads.
 
+## Screenshots
+
+<img src="/assets/1.jpg" alt="Dashboard Overview" width="75%">
+<img src="/assets/2.jpg" alt="Message Analysis" width="75%">
+<img src="/assets/3.jpg" alt="Budget Planning" width="75%">
+<img src="/assets/4.jpg" alt="Allocation Tracking" width="75%">
+
 ## 🛠 Tech Stack
 
 - **Language:** Kotlin (100%)
