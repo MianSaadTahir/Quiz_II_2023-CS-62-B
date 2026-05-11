@@ -17,9 +17,9 @@ A robust, modern, and high-performance Android application designed for streamli
 ## Screenshots
 
 <!-- <img src="/assets/1.jpg" alt="Dashboard Overview" width="50%"> -->
-<img src="/assets/2.jpg" alt="Message Analysis" width="10%">
-<img src="/assets/3.jpg" alt="Budget Planning" width="50%">
-<img src="/assets/4.jpg" alt="Allocation Tracking" width="50%">
+<img src="/assets/2.jpg" alt="Message Analysis" width="25%">
+<img src="/assets/3.jpg" alt="Budget Planning" width="25%">
+<img src="/assets/4.jpg" alt="Allocation Tracking" width="25%">
 
 ## 🛠 Tech Stack
 
