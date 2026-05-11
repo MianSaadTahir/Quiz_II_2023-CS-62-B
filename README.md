@@ -23,7 +23,7 @@ A robust, modern, and high-performance Android application designed for streamli
 
 ## 🛠 Tech Stack
 
-- **Language:** Kotlin (100%)
+- **Language:** Kotlin
 - **Architecture:** Standard Android Component Architecture with View Binding.
 - **Database:** Firebase Cloud Firestore (NoSQL).
 - **UI Framework:** Material Design 3 (Material Components).
